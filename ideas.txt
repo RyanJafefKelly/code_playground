@@ -1,0 +1,3 @@
+(questionable) ideas
+
+implement neural networks as read Prince and Murphy
